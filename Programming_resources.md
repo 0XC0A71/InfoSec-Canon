@@ -1,8 +1,8 @@
-###Python### 
+### Python
 
 https://github.com/gregmalcolm/python_koans
 
-###Bash###
+### Bash
 https://github.com/trhodeos/bash-koans 
 
 https://wiki.bash-hackers.org/scripting/tutoriallist
@@ -20,7 +20,7 @@ https://learnxinyminutes.com/docs/bash/
 
 For later: https://github.com/learnbyexample/command_help
 
-###command line### 
+### command line
 https://github.com/veltman/clmystery
 https://www.learnshell.org
 
